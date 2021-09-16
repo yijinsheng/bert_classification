@@ -1,0 +1,4 @@
+pandas==1.1.3
+tensorflow==2.3.2
+ipython==7.27.0
+kashgari==2.0.2
